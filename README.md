@@ -25,7 +25,7 @@ Heart Rate EVM (Eulerian Video Magnification) is a real-time heart rate monitor 
 - OpenCV
 - NumPy
 - cvzone
-- [Additional dependencies in `requirements.txt`](#)
+- Additional dependencies in `requirements.txt`
 
 ## Installation and Usage
 1. Clone the repository:
